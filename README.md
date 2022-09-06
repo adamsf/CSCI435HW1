@@ -13,6 +13,8 @@ I designed my implementation using Python 3.8, using two external libraries: Pil
 
 ### Required Libraries:
 
+Running this program works best in Anaconda because the libraries are already installed. If they are not, here are the commands to run in order to install them:
+
 Pillow (pip install pillow)
 
 Beatiful Soup (pip install beautifulsoup4
